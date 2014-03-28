@@ -26,3 +26,5 @@ license: http://creativecommons.org/licenses/by-nc-sa/3.0/ (Attribution-NonComme
 It was developed from concept created by Robert L. Read as an attempt to show all the people 
 benefiting from the Round 2 Fellowship projects and to show some portion of the technologies they
 do and don't employ.
+
+John Felleman had a completely different idea which I have named "Flow-based-view.pdf".  It is a napkin-style drawing of a different way of representing the same data.
